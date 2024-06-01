@@ -1,5 +1,5 @@
 # SearchCountries-SwiftUI
-This is a sample project created to list countries and filter them using polulation. User may search for a particular country by 
+This is a sample project created to list countries and filter them using polulation. User may search for a particular country by name.
 
 # UI Tech Stack
 - SwiftUI
